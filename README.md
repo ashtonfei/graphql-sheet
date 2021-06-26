@@ -4,7 +4,7 @@ A GraphQL style query library for Google Sheet written with Google Apps Script
 
 ## Introduction on YouTube
 
-[Graphql Sheet Library (Preview)]()
+[Graphql Sheet Library (Preview)](https://youtu.be/hEFW2cwkkjk)
 
 ## Demo Links
 
