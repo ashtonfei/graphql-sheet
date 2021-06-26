@@ -4,13 +4,13 @@ A GraphQL style query library for Google Sheet written with Google Apps Script
 
 ## Introduction on YouTube
 
-^[Graphql Sheet Library (Preview)]()
+[Graphql Sheet Library (Preview)]()
 
 ## Demo Links
 
-^[Demo Database with demo script](https://docs.google.com/spreadsheets/d/1qXB0NJRSRAonA1E9k5RsdsGy0Sl4Lat9c2ERqVPlU9o/copy)
-^[Demo Web App Build](https://script.google.com/macros/s/AKfycbyb9LrwC85_-3rM7ejioZnEYjRfps_TLaJLd1qzIEaSivdzBmlJV_Mdwm8m3M7-jBUmQg/exec)
-^[JSON download content service](https://script.google.com/macros/s/AKfycbyb9LrwC85_-3rM7ejioZnEYjRfps_TLaJLd1qzIEaSivdzBmlJV_Mdwm8m3M7-jBUmQg/exec?download=true)
+1. [Demo Database with demo script](https://docs.google.com/spreadsheets/d/1qXB0NJRSRAonA1E9k5RsdsGy0Sl4Lat9c2ERqVPlU9o/copy)
+2. [Demo Web App Build](https://script.google.com/macros/s/AKfycbyb9LrwC85_-3rM7ejioZnEYjRfps_TLaJLd1qzIEaSivdzBmlJV_Mdwm8m3M7-jBUmQg/exec)
+3. [JSON download content service](https://script.google.com/macros/s/AKfycbyb9LrwC85_-3rM7ejioZnEYjRfps_TLaJLd1qzIEaSivdzBmlJV_Mdwm8m3M7-jBUmQg/exec?download=true)
 
 ## Add the library to your spreadsheet
 
