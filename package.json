@@ -1,0 +1,23 @@
+{
+  "name": "graphql-sheet",
+  "version": "1.0.0",
+  "description": "A GraphQL style query library for Google Sheet written with Google Apps Script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashtonfei/graphql-sheet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashtonfei/graphql-sheet/issues"
+  },
+  "homepage": "https://github.com/ashtonfei/graphql-sheet#readme",
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.34"
+  }
+}
