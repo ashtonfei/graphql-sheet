@@ -2,6 +2,10 @@
 
 A GraphQL style query library for Google Sheet written with Google Apps Script
 
+## Introduction on YouTube
+
+^[Graphql Sheet Library (Preview)]()
+
 ## Demo Links
 
 ^[Demo Database with demo script](https://docs.google.com/spreadsheets/d/1qXB0NJRSRAonA1E9k5RsdsGy0Sl4Lat9c2ERqVPlU9o/copy)
